@@ -63,10 +63,10 @@ manzano-algoritmos-js/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/manzano-algoritmos-js-proa2026.git
+git clone https://github.com/seu-usuario/LogicaDeProgramacaoComJavaScriptPROA2026Manzano.git
 
 # Acesse a pasta
-cd manzano-algoritmos-js-proa2026
+cd LogicaDeProgramacaoComJavaScriptPROA2026Manzano
 
 # Instale as dependências
 npm install
