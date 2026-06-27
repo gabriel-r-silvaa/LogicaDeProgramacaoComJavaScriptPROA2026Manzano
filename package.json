@@ -1,0 +1,10 @@
+{
+  "name": "manzano-algoritmos-js",
+  "version": "1.0.0",
+  "description": "Exercícios do livro Algoritmos - Manzano (2000) resolvidos em JavaScript (Node.js)",
+  "keywords": ["algoritmos", "logica-de-programacao", "javascript", "manzano"],
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
